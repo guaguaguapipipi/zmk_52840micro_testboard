@@ -37,8 +37,8 @@
 
     default_transform: keymap_transform_0 {
         compatible = "zmk,matrix-transform";
-        columns = <6>;
-        rows = <4>;
+        columns = <4>;
+        rows = <5>;
 // | MX1  | MX2  | MX3  | MX4  | MX17 | MX21 |
 // | MX5  | MX6  | MX7  | MX8  | MX18 | MX22 |
 // | MX9  | MX10 | MX11 | MX12 | MX19 | MX23 |
